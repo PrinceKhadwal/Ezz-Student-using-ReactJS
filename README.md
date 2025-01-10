@@ -26,13 +26,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Clone the project
 
 ```bash
-  git clone https://github.com/PrinceKhadwal/Ezz-Student-using-React
+  git clone https://github.com/PrinceKhadwal/Ezz-Student-using-ReactJS
 ```
 
 Go to the project directory
 
 ```bash
-  cd Ezz-Student
+  cd Ezz-Student-using-ReactJS
 ```
 
 Installing the packages
