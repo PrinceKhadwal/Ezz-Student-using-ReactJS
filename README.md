@@ -61,4 +61,13 @@ Start the application
 
 ## Screenshots
 
-![App Screenshot](https://github.com/PrinceKhadwal/Ezz-Student-using-React/blob/main/Screenshot.png)
+![App Screenshot](https://github.com/PrinceKhadwal/Ezz-Student-using-ReactJS/blob/main/public/ss1.png)
+![App Screenshot](https://github.com/PrinceKhadwal/Ezz-Student-using-ReactJS/blob/main/public/ss2.png)
+![App Screenshot](https://github.com/PrinceKhadwal/Ezz-Student-using-ReactJS/blob/main/public/ss3.png)
+![App Screenshot](https://github.com/PrinceKhadwal/Ezz-Student-using-ReactJS/blob/main/public/ss4.png)
+
+
+
+
+
+
