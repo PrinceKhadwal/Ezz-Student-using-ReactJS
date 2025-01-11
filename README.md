@@ -1,6 +1,6 @@
 ## Ezz-Student
 
-Ezz Student is an educational Website developed to provide the educational resources for learners around our platform. It is built for MCA students of Himachal Pradesh Technical University. Here, you have access to MCA course Material like Syllabus, Previous Year Question Papers in pdf format.
+Ezz Student is an educational Website developed to provide the educational resources for learners around our platform. It is built for MCA students. Here, you have access to MCA course Material like Syllabus, Previous Year Question Papers in pdf format.
 
 ## Features
 
