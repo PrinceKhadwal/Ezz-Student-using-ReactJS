@@ -1,8 +1,8 @@
-## Ezz-Student
+# Ezz-Student
 
 Ezz Student is an educational Website developed to provide the educational resources for learners around our platform. It is built for MCA students. Here, you have access to MCA course Material like Syllabus, Previous Year Question Papers in pdf format.
 
-## Features
+## 🚀Features
 
 - Download Previous Year for MCA.
 - User-friendly interface.
@@ -48,7 +48,7 @@ Start the application
 ```
 
 
-## Tech Stack
+## 🛠️Tech Stack
 
 **React Js**: JavaScript library used for building user interfaces..
 
